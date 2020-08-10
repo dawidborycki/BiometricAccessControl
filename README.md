@@ -4,7 +4,7 @@ A sample Python application for biometric access control. Here, the Actian Zen p
 # Description
 The logical pipeline and structure of the Python application BiometricAccessControl are sketched in the Figure below. The app first performs face recognition (recognizer.py). 
 
-![Figure](screenshots\Diagram.bmp)
+![App structure](/screenshots/Diagram.bmp)
 
 Here, I am using face images from local files (but if you want to capture them from a camera, you can use opencv-python as shown in [this repository](https://github.com/dawidborycki/TalkingIoT) (refer to camera.py). 
 
